@@ -1,0 +1,3 @@
+admin:admin123:ftp\admin
+user:password:ftp\user
+test:test123:ftp\test
